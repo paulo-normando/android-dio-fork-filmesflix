@@ -1,6 +1,6 @@
 # **FilmesFlix**
 
-Projeto criado para o módulo de MVVM e Clean Architecture no Bootcamp Kotlin Everis da DIO.
+Projeto criado para o módulo de MVVM e Clean Architecture no Bootcamp Kotlin Santander da DIO.
 
 Este projeto consiste em exibir uma lista de filmes, oriundas de uma API. 
 
@@ -11,7 +11,7 @@ Este projeto consiste em exibir uma lista de filmes, oriundas de uma API.
 - [x] [MVVM](https://developer.android.com/jetpack/guide?gclid=CjwKCAiAjp6BBhAIEiwAkO9Wut2W9TLNRaql75qE26vP_xRvCfTBlBY5j8RHxc_r6RhC1HFPTprbwRoC32cQAvD_BwE&gclsrc=aw.ds) 
 - [x] [Coil](https://coil-kt.github.io/coil/)
 - [x] [Retrofit](https://square.github.io/retrofit/)
-- [x] Clean Architecture
+- [x] [Clean Architecture](https://medium.com/android-dev-hacks/detailed-guide-on-android-clean-architecture-9eab262a9011)
 
 **Screenshot**
 <p float="left">
