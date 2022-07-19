@@ -34,6 +34,6 @@ class MovieListViewModel: ViewModel() {
                 Log.d(TAG, exception.message.toString())
 
             }
-        }
+        }.start()
     }
 }
