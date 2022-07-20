@@ -17,9 +17,6 @@ This project consumes an Api and returns an list of movies.
 - [x] [Retrofit](https://square.github.io/retrofit/)
 - [x] [Clean Architecture](https://medium.com/android-dev-hacks/detailed-guide-on-android-clean-architecture-9eab262a9011)
 
-**Screenshot**
-<p float="left">
-  <img src="/filmes_flix.png" width="300" />
-</p>
+**Screen Record**
 
 ![WhatsApp_Video_2022-07-20_at_14_11_41_AdobeExpress](https://user-images.githubusercontent.com/91965545/180045355-863a47b5-3027-4a04-874d-c119d0c36d10.gif)
