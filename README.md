@@ -1,10 +1,14 @@
 # **FilmesFlix**
 
-Projeto criado para o módulo de MVVM e Clean Architecture no Bootcamp Kotlin Santander da DIO.
+## Hello, i'm Paulo.
 
-Este projeto consiste em exibir uma lista de filmes, oriundas de uma API. 
+![Linkedin Badge](https://img.shields.io/badge/-Paulo_Normando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://br.linkedin.com/in/igor-rotondo-bagliotti-b1612b69](https://www.linkedin.com/in/paulo-normando-469726a0/)) ![Gmail Badge](https://img.shields.io/badge/-paulonormando@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paulonormando@gmail.com)
 
-**Tecnologias utilizadas:**
+Project created to MVVM and Clean Architecture at Santander Dio Bootcamp
+
+This project consumes an Api and returns an list of movies.
+
+**Tech**
 
 - [x] [Kotlin](https://kotlinlang.org/docs/getting-started.html)
 - [x] [Live data](https://developer.android.com/topic/libraries/architecture/livedata?hl=pt-br)
@@ -18,6 +22,4 @@ Este projeto consiste em exibir uma lista de filmes, oriundas de uma API.
   <img src="/filmes_flix.png" width="300" />
 </p>
 
-**Desafios para os alunos:**
-
-Como devem ter observado, os filmes possuem mais informações que deixariam o app ainda melhor. Que tal criarem uma tela de detalhes de cada filme com as informações vindas da requisição? 
+![WhatsApp_Video_2022-07-20_at_14_11_41_AdobeExpress](https://user-images.githubusercontent.com/91965545/180045355-863a47b5-3027-4a04-874d-c119d0c36d10.gif)
